@@ -1,0 +1,12 @@
+C:\Users\2091199\source\repos\Kafka_WindowsForm\Kafka_WindowsForm\bin\Debug\Kafka_WindowsForm.exe.config
+C:\Users\2091199\source\repos\Kafka_WindowsForm\Kafka_WindowsForm\bin\Debug\Kafka_WindowsForm.exe
+C:\Users\2091199\source\repos\Kafka_WindowsForm\Kafka_WindowsForm\bin\Debug\Kafka_WindowsForm.pdb
+C:\Users\2091199\source\repos\Kafka_WindowsForm\Kafka_WindowsForm\bin\Debug\kafka-net.dll
+C:\Users\2091199\source\repos\Kafka_WindowsForm\Kafka_WindowsForm\obj\Debug\Kafka_WindowsForm.csproj.AssemblyReference.cache
+C:\Users\2091199\source\repos\Kafka_WindowsForm\Kafka_WindowsForm\obj\Debug\Kafka_WindowsForm.Form1.resources
+C:\Users\2091199\source\repos\Kafka_WindowsForm\Kafka_WindowsForm\obj\Debug\Kafka_WindowsForm.Properties.Resources.resources
+C:\Users\2091199\source\repos\Kafka_WindowsForm\Kafka_WindowsForm\obj\Debug\Kafka_WindowsForm.csproj.GenerateResource.cache
+C:\Users\2091199\source\repos\Kafka_WindowsForm\Kafka_WindowsForm\obj\Debug\Kafka_WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\2091199\source\repos\Kafka_WindowsForm\Kafka_WindowsForm\obj\Debug\Kafka_WindowsForm.csproj.CopyComplete
+C:\Users\2091199\source\repos\Kafka_WindowsForm\Kafka_WindowsForm\obj\Debug\Kafka_WindowsForm.exe
+C:\Users\2091199\source\repos\Kafka_WindowsForm\Kafka_WindowsForm\obj\Debug\Kafka_WindowsForm.pdb
